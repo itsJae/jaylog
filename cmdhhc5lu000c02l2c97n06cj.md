@@ -1,5 +1,5 @@
 ---
-title: "July 2025 - 나무처럼 늘 여기 있을게"
+title: "July 2025 - 나무처럼 늘 그자리에"
 seoTitle: "July 2025 - 나무처럼 늘 여기 있을게"
 datePublished: Thu Jul 24 2025 14:20:26 GMT+0000 (Coordinated Universal Time)
 cuid: cmdhhc5lu000c02l2c97n06cj
@@ -24,5 +24,3 @@ ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1753366067296/2f74a
 영원한 것은 없다고 하지만 영원했으면 하는 사람이 있고 영원했으면 하는 마음, 모습이 있다.
 
 그럼에도, 그런 것들이 떠나갈지라도, 나라도 그 자리를 지키고 한 그루의 나무처럼 이 자리에 머물고 싶은 마음이다.
-
-요즘 음악 감상하는 것을 좋아한다. 예전에는 멜로디가 좋은 노래에 끌렸었는데 요즘은 예쁜 가사 들을 찾아 다닌다. 이무진의 쉼표, 어반자카파의 봄을 그리다, 성시경의 두 사람, 죠지의 좋아해 등등 좋은 노래들이다.
